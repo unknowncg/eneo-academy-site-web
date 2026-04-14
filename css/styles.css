@@ -1,0 +1,36 @@
+/* styles.css : styles personnalisés pour Eneo Academy
+   Ce fichier contient des ajouts Tailwind et des transitions personnalisées.
+   Un développeur junior peut ajouter de nouvelles animations ici. */
+
+:root {
+  color-scheme: dark;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  background-image: radial-gradient(circle at top right, rgba(74, 222, 128, 0.12), transparent 25%);
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+input,
+textarea,
+button {
+  font-family: inherit;
+}
+
+@media (max-width: 640px) {
+  .hero-card {
+    padding: 2rem;
+  }
+}
