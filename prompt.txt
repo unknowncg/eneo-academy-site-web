@@ -1,0 +1,21 @@
+Je veux que tu me fasse le site web officiel du centre de formation "Eneo Academy"
+
+Au niveau de la racine du projet tu trouveras un dossier appeler docs et à l'interieur
+tu trouveras des flyers des differents formation que nous disposons qui devrais figurer dans le site web.
+
+Toujours à la racine, dans le dossier images tu trouveras le logo de l'academy.
+
+Je veux que le code soit modulaire et bien fait, dans le dossier css tu mettras les fichiers de styles.
+Tu feras de même pour le dossier js parce que j'aimerai des animations fluid et très modernes.
+
+Inspires toi des flyers pour avoir plus d'infos sur le centre de formation.
+
+J'aimerai qu'il puisse avoir un bouton qui lance directement un appel sur mobile, je veux aussi un bouton
+qui lance une conversation directement dans whatsapp et j'aimerai que le formulaire de contacte soit lié via ce mail : eneogroup.cg@gmail.com
+
+Voici les technologie que tu devrais utilise:
+HTML, CSS, Tailwingcss et javascript pour les animations.
+
+Je veux que tu code en français, tu mets des commentaire et que ton code soit capable de guider un dev junior quand il viendra continuer le projet.
+
+Ensuite pour finir, crée un fichier README.md pour ce projet.
