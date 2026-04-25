@@ -1,6 +1,9 @@
 /* styles.css : styles personnalisés pour Eneo Academy
    Ce fichier contient des ajouts Tailwind et des transitions personnalisées.
    Un développeur junior peut ajouter de nouvelles animations ici. */
+html {
+  scroll-behavior: smooth;
+}
 
 :root {
   color-scheme: dark;
