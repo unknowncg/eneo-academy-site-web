@@ -1,0 +1,8 @@
+1- Modifier le bouton voir les formations (OK)
+2- Modifier le bouton contact --(OK)
+
+3- ajout des formations dans la section formation- (
+    ## maintenance informatique
+    ## Graphic design
+    ## developpement Laravel
+)-OK
